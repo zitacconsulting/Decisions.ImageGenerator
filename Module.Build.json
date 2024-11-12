@@ -1,0 +1,20 @@
+{
+    "Resources": {
+        "NoComponents": true,
+        "CoreServicesDlls": [
+            "./Decisions.ImageGenerator/bin/Decisions.ImageGenerator.dll"
+        ],
+        "CustomImages": null,
+        "CliDlls": null,
+        "WebPages": null,
+        "SilverlightDlls": null,
+        "AgentDlls": null,
+        "InstallScript": null,
+        "SqlScripts": null,
+        "ObjectsToImport": null,
+        "MsSqlScript": null
+    },
+    "Version": "9.4.0",
+    "ImagePath": "image.svg",
+    "Description": "This module adds Image Generator Steps"
+}
